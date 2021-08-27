@@ -1,7 +1,7 @@
 name: responsive_elements
-description: A new Flutter package project.
-version: 0.0.2
-homepage: https://gerardo-villegas.com/
+description: A new Flutter package project for create responsive elements.
+version: 0.0.3
+homepage: https://github.com/gvillegasc/responsive_elements
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
